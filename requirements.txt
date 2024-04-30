@@ -1,1 +1,4 @@
-langchain_community
+langchain_community.llms
+langchain.prompts
+langchain.chains
+transformers
