@@ -60,7 +60,7 @@ def generate_story(scenario):
         repo_id="HuggingFaceH4/zephyr-7b-beta",
         task="text-generation",
         model_kwargs={
-            # "max_new_tokens": 225,
+            # "max_gitnew_tokens": 225,
             "temperature": 0.2,
         },
     )
